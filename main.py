@@ -9,7 +9,6 @@ import hashlib
 
 print("hi")
 print(3)
-print(234*876)
 
 a=1234
 print (a)
